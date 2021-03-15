@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UrlReader</string>
+    <string name="accessibility_service_description">This permissions help read the chrome url</string>
+</resources>
